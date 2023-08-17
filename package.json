@@ -1,10 +1,11 @@
 {
-  "name": "ApplicationServer",
+  "name": "Application Server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w & nodemon dist/index.js"
   },
   "keywords": [
     "backend",

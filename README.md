@@ -1,4 +1,4 @@
-# Application Server Application
+# Application Server
 
 The application server is a powerful tool that processes every requests coming from the proxy. It facilitates various functions, from notfication, caching to datbase communication, to optimizing network performance. This README provides a concise overview of a basic proxy server application.
 
