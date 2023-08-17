@@ -32,7 +32,7 @@ To use the server application, follow these steps:
 
 ## Installation
 
-1. Clone this repository: `git clone [https://github.com/Chibueze-Adeyemi-Ajayi/ProxyServer/]`
+1. Clone this repository: `git clone [https://github.com/Chibueze-Adeyemi-Ajayi/AppServer/]`
 2. Navigate to the project directory: `cd app-server`
 3. Install dependencies: `npm install`
 
