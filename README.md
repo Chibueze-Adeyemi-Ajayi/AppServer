@@ -23,7 +23,7 @@ The Application Server is designed to handle requests between proxy and servers.
 
 ## Usage
 
-To use the proxy server application, follow these steps:
+To use the server application, follow these steps:
 
 1. **Install**: Install the proxy server application on your desired server.
 2. **Configure**: Configure the proxy settings, including target server addresses and caching preferences.
@@ -33,7 +33,7 @@ To use the proxy server application, follow these steps:
 ## Installation
 
 1. Clone this repository: `git clone [https://github.com/Chibueze-Adeyemi-Ajayi/ProxyServer/]`
-2. Navigate to the project directory: `cd proxy-server`
+2. Navigate to the project directory: `cd app-server`
 3. Install dependencies: `npm install`
 
 ## Contributing
